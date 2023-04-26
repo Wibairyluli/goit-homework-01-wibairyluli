@@ -1,0 +1,18 @@
+:root{
+    --primary-font:'Roboto' , sans-serif;
+    --primary-text-color: #2E2F42;
+    --secondary-text-color:#434455;
+    --text-color-hover: #4d5ae5;
+    --acent-color: #404bbf;
+    --background-color: #FFFFFF;
+    --background-btn-filters: #F4F4FD;
+}
+.list{list-style: none;}
+.link{text-decoration: none;}
+
+body{font-family: var(--primary-font);
+color: var(--secondary-text-color);
+background-color: var(--background-color);}
+
+
+
